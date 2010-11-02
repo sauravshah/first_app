@@ -1,0 +1,19 @@
+[user]
+	name = Saurav Shah
+	email = saurav@gmail.com
+[core]
+	editor = vim
+	excludesfile = /Users/sauravshah/.gitignore
+[merge]
+	tool = opendiff
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[alias]
+	st = status
+	ci = commit
+	br = branch
+[diff]
+	external = /Users/sauravshah/git-diff-cmd.sh
